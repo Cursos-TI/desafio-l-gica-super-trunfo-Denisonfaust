@@ -126,7 +126,7 @@ int main() {
     printf("Pibpercapita: Carta 1: %.0f \n", resultadoPibpercapita);
     printf("SuperPoder: Carta 1: %.0f \n", resultadoSuperpoder);
 
-//Comparação da Cartas; Atributo População
+//Comparação da Cartas; Atributo População Desafio Novato - Tema 3
     
     printf("Carta 1 São Paulo(SP): %lu \n", populacao1);
     printf("Carta 2 Parana(PR): %lu \n", populacao2);
